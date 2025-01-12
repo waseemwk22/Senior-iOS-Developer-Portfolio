@@ -17,7 +17,7 @@ PremierOne Mobile is a mobile application, designed primarily for public safety 
 - 🎨 SwiftUI
 - 🔐 MFA (Multi-factor authentication)
 - 📏 SwiftLint
-- TestFlight
+- ✈️ TestFlight
 
 
 <p align="left">
@@ -66,11 +66,46 @@ noknok is a grocery delivery app that focuses on fast and convenient shopping. N
 - 📊 Firebase
 - 🎯 OneSignal (Deep linking)
 - 🎯 Adjust (Deep Linking)
+- 💳 Payment Gateway Integrations
 
 <p align="left">
   <img src="https://github.com/user-attachments/assets/f98edd00-7eaf-4cc7-81d6-2702ca34b4de", width="250"/>
   <img src="https://github.com/user-attachments/assets/d38c5d66-0d6f-4bd1-999c-00a6a76cc130", width="250"/>
   <img src="https://github.com/user-attachments/assets/3a94c473-55cf-480e-8558-14fe2b902f9a", width="250"/>
+</p>
+<br/><br/>
+
+
+
+# [Global Rescue GRID](https://apps.apple.com/us/app/global-rescue-grid/id1084623977)
+This application is designed exclusively for enterprise customers of Global Rescue LLC who are planning international travel. It offers a wide range of country-specific reports for users to review before beginning their journey. Key features include One-Tap Emergency assistance, Safety Check-Ins, real-time Events and Alerts, and in-app messaging for direct communication with support.
+
+
+**Highlights**
+- 👾 Objective C
+- ⛁ CoreData
+- 🔔 FCM (Push Notifications)
+
+<p align="left">
+  <img src="https://github.com/user-attachments/assets/780115ec-a8b9-49f5-9b21-321d972ea5dc", width="250"/>
+  <img src="https://github.com/user-attachments/assets/3ffb0a10-0ea7-4659-95fc-0795862089a0", width="250"/>
+  <img src="https://github.com/user-attachments/assets/2abf9bf2-4451-43bc-8d7c-1a43380800d3", width="250"/>
+</p>
+<br/><br/>
+
+
+
+# [Tameer](https://apps.apple.com/pl/app/tameerapp/id1555993270)
+Tameer is One-stop shop for ordering construction and building materials online. 
+
+**Highlights**
+- ⚡ Swift
+- 📊 Firebase
+
+<p align="left">
+  <img src="https://github.com/user-attachments/assets/e40fdc2c-2288-46f9-b4d3-b3e9630c91ff", width="250"/>
+  <img src="https://github.com/user-attachments/assets/a61cdb36-4c55-4617-a9c1-16c6b0d43053", width="250"/>
+  <img src="https://github.com/user-attachments/assets/8ac1fe87-5514-4485-96e7-738fef550b59", width="250"/>
 </p>
 <br/><br/>
 
