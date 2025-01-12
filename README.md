@@ -3,13 +3,13 @@
 [![LinkedIn][linkedin-shield]][linkedin-url]
 [![Medium][medium-shield]][medium-url]
 
-# Senior iOS Developer Portfolio
-Hi 👋 I’m **Waseem Khan**, Senior iOS Developer with 10+ years of experience in designing, developing, and delivering high-performance mobile applications. 
+# About me
+Hi 👋 I’m [**Waseem Khan**](https://www.linkedin.com/in/waseemwk/) a Senior iOS Developer with 10+ years of experience in designing, developing, and delivering high-performance mobile applications. 
 Proficient in **Swift** and **Objective-C**. Familiar with **Java** and have hands-on experience with **Kotlin/Android**, capable of contributing effectively if needed.
 <br/>
 
 Here are some of the most interesting and challenging projects I've worked on throughout my career.
-<br/>
+<br/><br/>
 
 <!-- PROJECTS -->
 # [PremierOne Mobile](https://apps.apple.com/us/app/premierone-mobile/id1452289814)
@@ -54,11 +54,12 @@ ProCon is an enterprise-level iPad application developed exclusively for interna
 
 > [!Note]
 > More info & screenshots about **ProCon** can be found [here](https://usamaazam.com/work-procon/) (Uploaded & maintained by Uzama Azam[^1])
+
 <br/><br/>
 
 
 
-# [noknok](https://apps.apple.com/lb/app/noknok-groceries-made-fast/id1360852720)
+# [noknok - Groceries made fast](https://apps.apple.com/lb/app/noknok-groceries-made-fast/id1360852720)
 noknok is a grocery delivery app that focuses on fast and convenient shopping. NokNok currently delivers in Lebanon & Ghana. The app offer different promotion and discounts while maintaing a lower prices comparing to market. The Noknok app features a customizable user interface (UI), enabling adjustments and personalization directly through its portal, adding flexibility for tailored user experiences.
 
 **Highlights**
