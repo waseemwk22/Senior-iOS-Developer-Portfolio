@@ -4,9 +4,12 @@
 [![Medium][medium-shield]][medium-url]
 
 # Senior iOS Developer Portfolio
-### 👋 Hi! I’m Waseem Khan, a Senior iOS Developer with over 10 years of experience building high-quality mobile apps.
+Hi 👋 I’m **Waseem Khan**, Senior iOS Developer with 10+ years of experience in designing, developing, and delivering high-performance mobile applications. 
+Proficient in **Swift** and **Objective-C**. Familiar with **Java** and have hands-on experience with **Kotlin/Android**, capable of contributing effectively if needed.
+<br/>
 
-I hold a Master’s and Bachelor’s in Computer Science and specialize in Swift, Objective-C, Kotlin, Firebase, and CoreData. I’m also proficient in using marketing tools like Mixpanel and OneSignal.
+Here are some of the most interesting and challenging projects I've worked on throughout my career.
+<br/>
 
 <!-- PROJECTS -->
 # [PremierOne Mobile](https://apps.apple.com/us/app/premierone-mobile/id1452289814)
@@ -64,6 +67,7 @@ noknok is a grocery delivery app that focuses on fast and convenient shopping. N
 - ⛁ Segment
 - 📊 Mixpanel
 - 📊 Firebase
+- ⓕ Facebook SDK (Auth & Events)
 - 🎯 OneSignal (Deep linking)
 - 🎯 Adjust (Deep Linking)
 - 💳 Payment Gateway Integrations
