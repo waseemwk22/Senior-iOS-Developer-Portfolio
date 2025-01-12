@@ -12,7 +12,7 @@ I hold a Master’s and Bachelor’s in Computer Science and specialize in Swift
 # [PremierOne Mobile](https://apps.apple.com/us/app/premierone-mobile/id1452289814)
 PremierOne Mobile is a mobile application, designed primarily for public safety professionals, such as police officers, firefighters, and emergency responders. It is part of the PremierOne suite, which provides integrated software solutions for public safety agencies. PremierOne Mobile enables first responders to access critical information and communicate efficiently while on the move.
 
-**Tech Used**
+**Highlights**
 - ⚡ Swift
 - 🎨 SwiftUI
 - 🔐 MFA (Multi-factor authentication)
@@ -25,12 +25,35 @@ PremierOne Mobile is a mobile application, designed primarily for public safety 
 <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/27/1c/4c/271c4c92-bdc2-9248-5dc0-eb990f6268b1/pr_source.png/460x0w.webp", width="250"/>
 </p>
 
+<br/><br/>
+# ProCon
+ProCon is an enterprise-level iPad application developed exclusively for internal use by USIS Inc (USA). The app has a variety of features such as day-to-day task management, work log counter, employees’ clock in/outs, job-site delivery schedules, RFI management, daily site reports, employees’ certification, tools check-in/outs, reports, etc. The app is designed to work in both online and offline mode. The app is distributed to internal employees using MDM and is not avaialble on the App Store.
 
 
 
+**Highlights**
+- ⚡ Swift
+- 📱 iPad
+- 📴 Offline support
+- ᛒ Check in/out based on Bluetooth
+- 🔥 Firebase
+- 🔔 FCM (Push Notifications)
+- ⬇️ Apple Enterprise Distribution
+
+<br/>
+<p align="top">
+<img src="https://github.com/user-attachments/assets/67e60b81-3400-4d41-bbf4-96f9cc5eb55e", width="300"/>
+<img width="300" src="https://github.com/user-attachments/assets/5eb88b82-62b3-480e-b491-dfeba94171b8" />
+<img width="300" src="https://github.com/user-attachments/assets/83cd07fe-4ba4-48db-88d1-89c1401b464c" />
+</p>
+
+> [!Note]
+> More info & screenshots about **ProCon** can be found [here](https://usamaazam.com/work-procon/) (Uploaded & maintained by Uzama Azam[^1])
 
 
 
+<!-- References -->
+[^1]: [Usama Azam](https://www.linkedin.com/in/usamaazam/) is a Senior Product Designer and was one of the primary UX designers for the **ProCon** app.
 
 <!-- MARKDOWN LINKS & IMAGES -->
 [swift-shield]: https://img.shields.io/badge/Swift-FF7F00?style=for-the-badge&logo=swift&logoColor=white
