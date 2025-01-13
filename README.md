@@ -21,6 +21,7 @@ PremierOne Mobile is a mobile application, designed primarily for public safety 
 - 🔐 MFA (Multi-factor authentication)
 - 📏 SwiftLint
 - ✈️ TestFlight
+- ⚡ Swift Package Manager
 
 
 <p align="left">
@@ -45,6 +46,7 @@ ProCon is an enterprise-level iPad application developed exclusively for interna
 - 🔥 Firebase
 - 🔔 FCM (Push Notifications)
 - ⬇️ Apple Enterprise Distribution
+- © Cocoapods
 
 <br/>
 <p align="top">
