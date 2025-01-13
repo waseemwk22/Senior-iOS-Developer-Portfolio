@@ -42,7 +42,7 @@ ProCon is an enterprise-level iPad application developed exclusively for interna
 - 📱 iPad
 - 📴 Offline support
 - ⛁ CoreData
-- ᛒ Check in/out based on Bluetooth
+- ᛒ Check-in/out based on Bluetooth
 - 🔥 Firebase
 - 🔔 FCM (Push Notifications)
 - ⬇️ Apple Enterprise Distribution
