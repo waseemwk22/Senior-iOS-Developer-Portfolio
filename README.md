@@ -109,6 +109,7 @@ Tameer is One-stop shop for ordering construction and building materials online.
 **Highlights**
 - ⚡ Swift
 - 📊 Firebase
+- 🦈๋࣭ RxSwift
 
 <p align="left">
   <img src="https://github.com/user-attachments/assets/e40fdc2c-2288-46f9-b4d3-b3e9630c91ff", width="250"/>
