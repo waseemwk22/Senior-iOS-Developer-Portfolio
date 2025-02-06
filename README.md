@@ -35,7 +35,7 @@ PremierOne Mobile is a mobile application, designed primarily for public safety 
 
 
 # ProCon
-ProCon is an enterprise-level iPad application developed exclusively for internal use by USIS Inc (USA). The app has a variety of features such as day-to-day task management, work log counter, employees’ clock in/outs, job-site delivery schedules, RFI management, daily site reports, employees’ certification, tools check-in/outs, reports, etc. The app is designed to work in both online and offline mode. The app is distributed to internal employees using MDM and is not avaialble on the App Store.
+ProCon is an enterprise-level iPad application developed exclusively for internal use by USIS Inc (USA). The app has a variety of features such as day-to-day task management, work log counter, employees’ clock in/outs, job-site delivery schedules, RFI management, daily site reports, employees’ certification, tools check-in/outs, reports, etc. The app is designed to work in both online and offline mode. The app is distributed to internal employees using MDM and is not available on the App Store.
 
 **Highlights**
 - ⚡ Swift
